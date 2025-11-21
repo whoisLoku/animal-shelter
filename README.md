@@ -6,3 +6,4 @@ This project is an Animal Shelter website designed to help users view available 
    `npm install`
 2. Run the app:
    `npm run dev`
+You are free to download, use, modify, and integrate this project in any way you like. The main purpose of making this repository public is to allow anyone to learn from it, improve it, or build their own projects based on it. The MIT license is included, so you can use the code without restrictions as long as the basic license terms are respected.
